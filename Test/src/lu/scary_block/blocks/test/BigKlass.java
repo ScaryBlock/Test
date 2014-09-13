@@ -9,7 +9,8 @@ public class BigKlass {
 		return string;
 	}
 
-	public static void setString(String string){
+	public static void setString(String string)
+	{
 		BigKlass.string = string;
 	}
 }
